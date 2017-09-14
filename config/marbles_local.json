@@ -2,11 +2,11 @@
     "cred_filename": "blockchain_creds_local.json",
     "use_events": true,
     "keep_alive_secs": 120,
-    "company": "United Marbles",
+    "company": "Cisco",
     "usernames": [
-        "amy",
-        "alice",
-        "ava"
+        "Americas",
+        "Europe",
+        "Asia Pacific"
     ],
     "port": 3001
 }
